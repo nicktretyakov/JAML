@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} · Solid SSG CMS</title>
+  <link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="/site/">← На главную</a>
+    <h1>{{ title }}</h1>
+    <p class="meta">Автор: {{ author }} · {{ published_at }}</p>
+  </header>
+  <article class="content">
+    {{ body_html }}
+  </article>
+  <footer>
+    <p>Сгенерировано Solid SSG CMS · ID: {{ id }}</p>
+  </footer>
+</body>
+</html>

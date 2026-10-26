@@ -1,0 +1,255 @@
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+    Updating crates.io index
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+     Locking 76 packages to highest compatible versions
+      Adding addr2line v0.25.1
+      Adding adler2 v2.0.1
+      Adding android-tzdata v0.1.1
+ Downgrading anyhow v1.0.104 -> v1.0.75 (available: v1.0.104)
+ Downgrading async-trait v0.1.92 -> v0.1.74 (available: v0.1.92)
+ Downgrading axum v0.7.9 -> v0.6.20 (available: v0.8.9)
+ Downgrading axum-core v0.4.5 -> v0.3.4
+ Downgrading axum-macros v0.4.2 -> v0.3.8
+      Adding backtrace v0.3.76
+      Adding bitflags v1.3.2
+ Downgrading chrono v0.4.45 -> v0.4.31 (available: v0.4.45)
+      Adding fnv v1.0.7
+      Adding getrandom v0.2.12 (available: v0.2.17)
+      Adding gimli v0.32.3
+      Adding heck v0.4.1
+      Adding hermit-abi v0.5.3
+ Downgrading http v1.5.0 -> v0.2.12
+ Downgrading http-body v1.1.0 -> v0.4.6
+ Downgrading http-range-header v0.4.2 -> v0.3.1
+ Downgrading hyper v1.12.0 -> v0.14.28 (available: v0.14.32)
+ Downgrading matchers v0.2.0 -> v0.1.0
+      Adding miniz_oxide v0.8.9
+ Downgrading mio v1.2.4 -> v0.8.11
+ Downgrading nu-ansi-term v0.50.3 -> v0.46.0
+      Adding num_cpus v1.17.0
+      Adding object v0.37.3
+      Adding overload v0.1.1
+ Downgrading parking_lot v0.12.5 -> v0.12.1 (available: v0.12.5)
+      Adding pin-project v1.1.13
+      Adding pin-project-internal v1.1.13
+ Downgrading pulldown-cmark v0.11.3 -> v0.9.3 (available: v0.9.6)
+ Downgrading rayon v1.12.0 -> v1.8.0 (available: v1.12.0)
+ Downgrading rayon-core v1.13.0 -> v1.12.0 (available: v1.13.0)
+      Adding regex-automata v0.1.10
+      Adding regex-syntax v0.6.29
+      Adding rustc-demangle v0.1.28
+ Downgrading serde v1.0.229 -> v1.0.193 (available: v1.0.229)
+ Downgrading serde_derive v1.0.229 -> v1.0.193 (available: v1.0.229)
+ Downgrading serde_json v1.0.154 -> v1.0.108 (available: v1.0.154)
+ Downgrading serde_path_to_error v0.1.20 -> v0.1.14 (available: v0.1.20)
+ Downgrading socket2 v0.6.5 -> v0.5.10
+ Downgrading sync_wrapper v1.0.2 -> v0.1.2
+ Downgrading thiserror v1.0.69 -> v1.0.50 (available: v1.0.69)
+ Downgrading thiserror-impl v1.0.69 -> v1.0.50 (available: v1.0.69)
+ Downgrading tokio v1.54.1 -> v1.35.1 (available: v1.54.1)
+ Downgrading tokio-macros v2.7.2 -> v2.2.0 (available: v2.7.2)
+ Downgrading tokio-util v0.7.20 -> v0.7.17 (available: v0.7.20)
+ Downgrading tower v0.5.3 -> v0.4.13 (available: v0.5.3)
+ Downgrading tower-http v0.5.2 -> v0.4.4 (available: v0.7.1)
+ Downgrading tracing v0.1.44 -> v0.1.40 (available: v0.1.44)
+ Downgrading tracing-subscriber v0.3.23 -> v0.3.18 (available: v0.3.23)
+      Adding try-lock v0.2.5
+ Downgrading uuid v1.29.0 -> v1.6.1 (available: v1.29.0)
+      Adding want v0.3.2
+      Adding winapi v0.3.9
+      Adding winapi-i686-pc-windows-gnu v0.4.0
+      Adding winapi-x86_64-pc-windows-gnu v0.4.0
+      Adding windows-sys v0.48.0
+      Adding windows-sys v0.52.0
+      Adding windows-targets v0.48.5
+      Adding windows-targets v0.52.6
+      Adding windows_aarch64_gnullvm v0.48.5
+      Adding windows_aarch64_gnullvm v0.52.6
+      Adding windows_aarch64_msvc v0.48.5
+      Adding windows_aarch64_msvc v0.52.6
+      Adding windows_i686_gnu v0.48.5
+      Adding windows_i686_gnu v0.52.6
+      Adding windows_i686_gnullvm v0.52.6
+      Adding windows_i686_msvc v0.48.5
+      Adding windows_i686_msvc v0.52.6
+      Adding windows_x86_64_gnu v0.48.5
+      Adding windows_x86_64_gnu v0.52.6
+      Adding windows_x86_64_gnullvm v0.48.5
+      Adding windows_x86_64_gnullvm v0.52.6
+      Adding windows_x86_64_msvc v0.48.5
+      Adding windows_x86_64_msvc v0.52.6
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+ Downloading crates ...
+  Downloaded http-range-header v0.3.1
+  Downloaded matchers v0.1.0
+  Downloaded thiserror-impl v1.0.50
+  Downloaded getrandom v0.2.12
+  Downloaded sync_wrapper v0.1.2
+  Downloaded tokio-macros v2.2.0
+  Downloaded anyhow v1.0.75
+  Downloaded async-trait v0.1.74
+  Downloaded overload v0.1.1
+  Downloaded nu-ansi-term v0.46.0
+  Downloaded serde_path_to_error v0.1.14
+  Downloaded axum-core v0.3.4
+  Downloaded thiserror v1.0.50
+  Downloaded serde_derive v1.0.193
+  Downloaded parking_lot v0.12.1
+  Downloaded rayon-core v1.12.0
+  Downloaded uuid v1.6.1
+  Downloaded serde v1.0.193
+  Downloaded tracing v0.1.40
+  Downloaded axum-macros v0.3.8
+  Downloaded pulldown-cmark v0.9.3
+  Downloaded regex-automata v0.1.10
+  Downloaded tower-http v0.4.4
+  Downloaded axum v0.6.20
+  Downloaded serde_json v1.0.108
+  Downloaded hyper v0.14.28
+  Downloaded rayon v1.8.0
+  Downloaded tracing-subscriber v0.3.18
+  Downloaded chrono v0.4.31
+  Downloaded regex-syntax v0.6.29
+  Downloaded tokio v1.35.1
+   Compiling serde v1.0.193
+   Compiling serde_derive v1.0.193
+   Compiling tokio-macros v2.2.0
+   Compiling num_cpus v1.17.0
+   Compiling mio v0.8.11
+   Compiling socket2 v0.5.10
+   Compiling futures-task v0.3.34
+   Compiling slab v0.4.12
+   Compiling fnv v1.0.7
+   Compiling http v0.2.12
+   Compiling futures-util v0.3.34
+   Compiling tokio v1.35.1
+   Compiling tracing v0.1.40
+   Compiling http-body v0.4.6
+   Compiling async-trait v0.1.74
+   Compiling smallvec v1.16.4
+   Compiling axum-core v0.3.4
+   Compiling pin-project-internal v1.1.13
+   Compiling try-lock v0.2.5
+   Compiling regex-syntax v0.8.11
+   Compiling regex-syntax v0.6.29
+   Compiling rayon-core v1.12.0
+   Compiling serde_json v1.0.108
+   Compiling regex-automata v0.1.10
+   Compiling regex-automata v0.4.18
+   Compiling pin-project v1.1.13
+   Compiling want v0.3.2
+   Compiling parking_lot_core v0.9.12
+   Compiling axum v0.6.20
+   Compiling futures-channel v0.3.34
+   Compiling pulldown-cmark v0.9.3
+   Compiling overload v0.1.1
+   Compiling anyhow v1.0.75
+   Compiling bitflags v1.3.2
+   Compiling heck v0.4.1
+   Compiling thiserror v1.0.50
+   Compiling axum-macros v0.3.8
+   Compiling nu-ansi-term v0.46.0
+   Compiling tokio-util v0.7.17
+   Compiling hyper v0.14.28
+   Compiling regex v1.13.1
+   Compiling serde_urlencoded v0.7.1
+   Compiling tower v0.4.13
+   Compiling matchers v0.1.0
+   Compiling serde_path_to_error v0.1.14
+   Compiling getrandom v0.2.12
+   Compiling thiserror-impl v1.0.50
+   Compiling http-range-header v0.3.1
+   Compiling sync_wrapper v0.1.2
+   Compiling chrono v0.4.31
+   Compiling rayon v1.8.0
+   Compiling tower-http v0.4.4
+   Compiling dashmap v5.5.3
+   Compiling tracing-subscriber v0.3.18
+   Compiling uuid v1.6.1
+   Compiling parking_lot v0.12.1
+   Compiling solid_ssg_cms v0.1.0 (/mnt/samsung/RUST/solid_ssg_cms_full)
+warning: unused import: `handlers::*`
+ --> src/api/mod.rs:6:9
+  |
+6 | pub use handlers::*;
+  |         ^^^^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` (part of `#[warn(unused)]`) on by default
+
+warning: unused import: `dto::*`
+ --> src/api/mod.rs:9:9
+  |
+9 | pub use dto::*;
+  |         ^^^^^^
+
+warning: unused import: `worker_pool::*`
+ --> src/concurrency/mod.rs:7:9
+  |
+7 | pub use worker_pool::*;
+  |         ^^^^^^^^^^^^^^
+
+warning: struct `AsyncWorkerPool` is never constructed
+ --> src/concurrency/worker_pool.rs:8:12
+  |
+8 | pub struct AsyncWorkerPool<T: Send + 'static> {
+  |            ^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(dead_code)]` (part of `#[warn(unused)]`) on by default
+
+warning: associated items `new` and `submit` are never used
+  --> src/concurrency/worker_pool.rs:14:12
+   |
+13 | impl<T: Send + 'static> AsyncWorkerPool<T> {
+   | ------------------------------------------ associated items in this implementation
+14 |     pub fn new<F>(workers: usize, handler: F) -> Self
+   |            ^^^
+...
+41 |     pub async fn submit(&self, job: T) -> Result<(), mpsc::error::Se...
+   |                  ^^^^^^
+
+warning: variant `Build` is never constructed
+  --> src/core/error.rs:21:5
+   |
+ 4 | pub enum CmsError {
+   |          -------- variant in this enum
+...
+21 |     Build(String),
+   |     ^^^^^
+   |
+   = note: `CmsError` has a derived impl for the trait `Debug`, but this is intentionally ignored during dead code analysis
+
+warning: method `register_template_file` is never used
+  --> src/core/traits.rs:26:8
+   |
+24 | pub trait TemplateEngine: Send + Sync {
+   |           -------------- method in this trait
+25 |     fn render(&self, template_name: &str, context: &serde_json::Valu...
+26 |     fn register_template_file(&self, name: &str, path: &Path) -> Cms...
+   |        ^^^^^^^^^^^^^^^^^^^^^^
+
+warning: method `subscribe` is never used
+  --> src/core/traits.rs:45:8
+   |
+43 | pub trait EventBus: Send + Sync {
+   |           -------- method in this trait
+44 |     fn publish(&self, event: DomainEvent);
+45 |     fn subscribe(&self, handler: Arc<dyn EventHandler>);
+   |        ^^^^^^^^^
+
+warning: method `render_key` is never used
+  --> src/domain/content.rs:81:8
+   |
+80 | pub trait Renderable: Send + Sync {
+   |           ---------- method in this trait
+81 |     fn render_key(&self) -> &str;
+   |        ^^^^^^^^^^
+
+warning: trait `EventPublisher` is never used
+  --> src/domain/events.rs:38:11
+   |
+38 | pub trait EventPublisher: Send + Sync {
+   |           ^^^^^^^^^^^^^^
+
+warning: `solid_ssg_cms` (bin "solid_ssg_cms") generated 10 warnings (run `cargo fix --bin "solid_ssg_cms" -p solid_ssg_cms` to apply 3 suggestions)
+    Finished `release` profile [optimized] target(s) in 56.27s
+     Running `target/release/solid_ssg_cms`
